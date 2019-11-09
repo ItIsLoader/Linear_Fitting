@@ -1,2 +1,2 @@
 # Linear_Fitting
-This program essentially performs a linear regression of data provided. The data imported and used in the program is provided in the repository.
+This program essentially performs a simple linear regression and fit based on the algebraic relationship between augmented matrix elements and their solutions, summations used in order to find chi squard, degrees of freedom, and more.
